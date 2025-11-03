@@ -1,6 +1,24 @@
-# API Job - Gerenciamento de Aferições
+# 🔐 API RESTful - Gerenciamento de Aferições com Autenticação JWT
 
-API RESTful desenvolvida com Spring Boot para gerenciamento de dados de aferições com sistema de autenticação JWT.
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-4479A1?style=for-the-badge&logo=h2&logoColor=white)
+
+</div>
+
+API RESTful desenvolvida com Spring Boot para gerenciamento de dados de aferições com sistema de autenticação JWT. Projeto completo com CRUD, segurança JWT e documentação detalhada.
+
+**🚀 Funcionalidades:**
+- ✅ CRUD completo de aferições
+- ✅ Autenticação JWT segura
+- ✅ Endpoints RESTful protegidos
+- ✅ Documentação completa
+- ✅ Scripts de teste automatizados
 
 ## Tecnologias Utilizadas
 
